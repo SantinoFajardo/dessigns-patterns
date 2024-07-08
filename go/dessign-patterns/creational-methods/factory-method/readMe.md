@@ -48,5 +48,5 @@
 </ul>
 
 <h4>Grafic representation: </h4>
-<img src="./assets/Screenshot 2024-07-04 at 10.02.15.png"/>
+<img src="https://www.pentalog.com/wp-content/uploads/2023/02/classic-furniture-factory.png"/>
 </div>
